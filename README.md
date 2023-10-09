@@ -1,2 +1,2 @@
-# study_pytorcn
+# study_pytorch
 repository for practice pytorch
