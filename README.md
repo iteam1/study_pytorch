@@ -1,5 +1,5 @@
 # study_pytorch
-repository for practice pytorch
+practice pytorch
 
 # references
 
