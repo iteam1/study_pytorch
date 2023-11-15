@@ -89,22 +89,22 @@ install pytorch: `pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torc
 
 🗃 Chapter 4: Custom Datasets
 - 19:43:37 126. Introduction to custom datasets
-19:59:26 128. Downloading a custom dataset of pizza, steak and sushi images
-20:13:31 129. Becoming one with the data
-20:38:43 132. Turning images into tensors
-21:15:48 136. Creating image DataLoaders
-21:24:52 137. Creating a custom dataset class (overview)
-21:42:01 139. Writing a custom dataset class from scratch
-22:21:22 142. Turning custom datasets into DataLoaders
-22:28:22 143. Data augmentation
-22:42:46 144. Building a baseline model
-23:10:39 147. Getting a summary of our model with torchinfo
-23:17:18 148. Creating training and testing loop functions
-23:50:31 151. Plotting model 0 loss curves
-23:59:34 152. Overfitting and underfitting
-24:32:03 155. Plotting model 1 loss curves
-24:35:25 156. Plotting all the loss curves
-24:46:22 157. Predicting on custom data
+- 19:59:26 128. Downloading a custom dataset of pizza, steak and sushi images
+- 20:13:31 129. Becoming one with the data
+- 20:38:43 132. Turning images into tensors
+- 21:15:48 136. Creating image DataLoaders
+- 21:24:52 137. Creating a custom dataset class (overview)
+- 21:42:01 139. Writing a custom dataset class from scratch
+- 22:21:22 142. Turning custom datasets into DataLoaders
+- 22:28:22 143. Data augmentation
+- 22:42:46 144. Building a baseline model
+- 23:10:39 147. Getting a summary of our model with torchinfo
+- 23:17:18 148. Creating training and testing loop functions
+- 23:50:31 151. Plotting model 0 loss curves
+- 23:59:34 152. Overfitting and underfitting
+- 24:32:03 155. Plotting model 1 loss curves
+- 24:35:25 156. Plotting all the loss curves
+- 24:46:22 157. Predicting on custom data
 
 # references
 
